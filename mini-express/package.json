@@ -1,0 +1,12 @@
+{
+  "name": "mini-express",
+  "version": "1.0.0",
+  "description": "Express.js 最小实现",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "darrenzhou <darren.zjc@alibaba-inc.com> (xxx.com)",
+  "license": "ISC"
+}
